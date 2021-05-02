@@ -1,10 +1,23 @@
----
-title: Learn projects
-language: en
-description: My name is Serhii Karavashkin, I am Frontend Developer. I have collected my projects from training courses, workshops, tutorials here. I hope you like it)
-creator: Serhii Karavashkin
----
-<link rel="stylesheet" type="text/css" media="all" href="https://github.com/ksawl/LearnProjects/blob/master/css/retro.css" />
+<link rel="stylesheet" type="text/css" media="all" href="retro.css" />
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+<article class="markdown-body">
+	<h1>Unicorns</h1>
+	<p>All the things</p>
+</article>
 
 # Learn projects
 
