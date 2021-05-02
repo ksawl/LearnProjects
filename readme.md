@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./css/retro.css">
+<link rel="stylesheet" href="https://github.com/ksawl/LearnProjects/blob/master/css/retro.css" />
 
 # Learn projects LearnProjects
 
