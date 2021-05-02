@@ -1,13 +1,8 @@
 <link rel="stylesheet" type="text/css" media="all" href="./markdown.css" />
-<style type="text/css">
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
 
 # Learn projects
 
-> -- <cite>My name is Serhii Karavashkin, I am Frontend Developer. I have collected my projects from training courses, workshops, tutorials here. I hope you like it)</cite>
+> *My name is Serhii Karavashkin, I am Frontend Developer. I have collected my projects from training courses, workshops, tutorials here. I hope you like it)*
 
 ---
 
