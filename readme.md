@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./css/retro.css">
+
 # Learn projects LearnProjects
 
 > -- <cite>My name is Serhii Karavashkin, I am Frontend Developer. I have collected my projects from training courses, workshops, tutorials here. I hope you like it)</cite>
