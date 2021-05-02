@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" media="all" href="./markdown.css" />
-<style>
+<style type="text/css">
 H1{color:Blue !important;}
 H2{color:DarkOrange !important;}
 p{color:Black !important;}
