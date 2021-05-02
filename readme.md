@@ -1,6 +1,12 @@
-<link rel="stylesheet" href="https://github.com/ksawl/LearnProjects/blob/master/css/retro.css" />
+---
+title: Learn projects
+language: en
+description: My name is Serhii Karavashkin, I am Frontend Developer. I have collected my projects from training courses, workshops, tutorials here. I hope you like it)
+creator: Serhii Karavashkin
+---
+<link rel="stylesheet" type="text/css" media="all" href="https://github.com/ksawl/LearnProjects/blob/master/css/retro.css" />
 
-# Learn projects LearnProjects
+# Learn projects
 
 > -- <cite>My name is Serhii Karavashkin, I am Frontend Developer. I have collected my projects from training courses, workshops, tutorials here. I hope you like it)</cite>
 
