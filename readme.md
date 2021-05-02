@@ -1,23 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="retro.css" />
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-</style>
-<article class="markdown-body">
-	<h1>Unicorns</h1>
-	<p>All the things</p>
-</article>
+<link rel="stylesheet" type="text/css" media="all" href="./markdown.css" />
 
 # Learn projects
 
@@ -25,8 +6,7 @@
 
 ---
 
-> ## **Contents**
-> -----------
+## Contents
 
 1. [React](#React)
 2. [Express](#Express)
@@ -34,8 +14,7 @@
 4. [JS](#JS)
 5. [Webpack](#Webpack)
 
-> ## **React**
-> -----------
+## React
 
 ### *React Redux Saga Workshop by Vladilen Minin
 
@@ -81,8 +60,7 @@
 
 ---
 
-> ## **Express**
-> -----------
+## Express
 
 ### *Nuxt.heroku project
 
@@ -110,8 +88,7 @@
 
 ---
 
-> ## **Vue**
-> -----------
+## Vue
 
 ### *Vue Vee-validate
 
@@ -122,8 +99,7 @@
 
 ---
 
-> ## **JS**
-> -----------
+## JS
 
 ### *Glo Academy E-shop "Ikea" 
 
@@ -134,8 +110,7 @@
 
 ---
 
-> ## **Webpack**
-> -----------
+## Webpack
 
 ### *Webpack by Jack Coder
 
